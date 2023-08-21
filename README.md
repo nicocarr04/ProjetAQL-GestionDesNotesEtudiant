@@ -1,5 +1,5 @@
 # ProjetAQL-GestionDesNotesEtudiant
-Projet pour le cours AQL
+Projet pour le cours AQL fait en JavaFX
 
 Fonctionnalitées:
   - Interface graphique intuitive
